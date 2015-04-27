@@ -1,0 +1,27 @@
+APP Name: all
+Actions: 10
+session-initiate: 2
+session-accept: 2
+call-accept: 2
+session-terminate: 4
+caller-relay: 0
+call-rate: 0.000000
+---------------------
+APP Name: mgsd#mfyg
+Actions: 4
+session-initiate: 1
+session-accept: 1
+call-accept: 1
+session-terminate: 1
+caller-relay: 0
+call-rate: 0.000000
+---------------------
+APP Name: easemob-demo#chatdemoui
+Actions: 6
+session-initiate: 1
+session-accept: 1
+call-accept: 1
+session-terminate: 3
+caller-relay: 0
+call-rate: 0.000000
+---------------------
