@@ -1,0 +1,8 @@
+---
+name: pool1
+short_name: p1
+host: abcdefg
+user: admin
+password: password
+service_url: http://abcdefg:8080/client;
+type: 1
